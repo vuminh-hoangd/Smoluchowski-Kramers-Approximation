@@ -28,4 +28,12 @@ $$
 O\left( \mu \log(1/\mu)   \right) \xrightarrow{\mu \to 0} 0
 $$
 
+## Experimental Results
+
+Convergence rates
+
+<img src="kramers-convergence.png" width="1000" alt="Swiss Roll Experiment">
+
+
+
 ---
