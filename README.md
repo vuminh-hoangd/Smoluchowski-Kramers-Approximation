@@ -32,7 +32,7 @@ $$
 
 Convergence rates
 
-<img src="kramers-convergence.png" width="1000" alt="Swiss Roll Experiment">
+<img src="kramers_convergence.png" width="1000" alt="Convergence">
 
 
 
